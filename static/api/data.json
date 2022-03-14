@@ -1,0 +1,186 @@
+{
+    "main": {
+        "name": "Keith Nathan Onyango",
+        "shortname": "MyPortFolio",
+        "occupation": "Full-Stack Developer / Programmer / CyberSecurity Enthusiast",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "05",
+        "age": "25",
+        "designation": "Software engineer",
+        "image": "/images/myself.jpg",
+        "fullimage": "/images/myself.jpg",
+        "bio": "Hi there! I have been very passionate about computers and programming since my university life. Being a Full-Stack Website developer is not only a passion but a dream to me as getting to create skillfull, elegant and beautiful websites based from the users idea that i value most is what i am happy to say i am proud of. My main aim is to get to create ideas into reality that are able to have a positive impact towards the society and the world. I am looking for a junior fullstack website developer position in a reputed software company that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to to build any website application for your business.!",
+        "email": "keithonyango1@gmail.com",
+        "phone": "+254701890804",
+        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "address": {
+            "street": "Nairobi",
+            "city": "Nairobi",
+            "state": "Kenya",
+            "zip": "00100"
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I would be obliged  to help make your project ideas real",
+            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+        },
+        "workabout": {
+            "completedproject": "100",
+            "inprogressproject": "20",
+            "awardrecived": "15",
+            "happyclinet": "100"
+        },
+        "resumedownload": "https://docs.google.com/document/d/1_M0jhRfkmPRk9ZX3EK0wtwxilmOSM3W6/edit",
+        "social": [{
+                "name": "youtube",
+                "url": "https://www.youtube.com/channel/UCEIDr-k4PiuX88TF5DXvxcQ",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/kenation.kenation/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/keith-onyango-8a2a71199/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/_kenation_/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/KenaTionWebTechNatz",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "Strathmore University.",
+            "degree": "Diploma Degree, In Business Information and Technology (DBIT) ",
+            "graduated": "July 2018 - July 2019",
+            "description": "Graduated with a Degree Honours"
+            
+        
+        }],
+     
+           
+        "work": [{
+            "company": "KenaTion Technologies",
+            "title": "Self-Employed Full-Stack Website Developer",
+            "years": "Jan 2019 - Present",
+            "description": "Developing some user-friendly website applications."
+        }],
+        "skillssectiontitle":"Motivated by the Desire to Learn and Achieve Success",
+        "skillssectiondescription":"Currently trying to learn and skill myself on the following development frameworks. ",
+        "skills": [{
+                "name": "HTML/CSS",
+                "level": "90%"
+            },
+            {
+                "name": "Basic_PHP",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "70%"
+            },
+            {
+                "name": "VueJS",
+                "level": "W.I.P"
+            },
+            {
+                "name": "Laravel",
+                "level": "W.I.P"
+            },
+            {
+                "name": "Python",
+                "level": "W.I.P"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "RMS with AR",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "no":"02",
+                "title": "Prothom alo clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "no":"03",
+                "title": "Chaldal Clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "John wilson",
+                "clientaddress": "Seattle, Washington"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "David haris",
+                "clientaddress": "London, England"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "UI/UX Design",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "02",
+                "title": "Web Design",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "03",
+                "title": "Web Development",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            }
+        ]
+    },
+    "awards": {
+        "awards": [
+            {
+                "title": "Website of the day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Awards Site Of The Day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Honorable mention award",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Designer of the Company",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            }
+        ]
+    }
+}
